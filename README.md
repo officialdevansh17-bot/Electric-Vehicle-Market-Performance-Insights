@@ -6,7 +6,7 @@ An end-to-end Data Analytics, Business Intelligence, and Web Integration project
 
 ## 📌 Project Deliverables & Live Links
 - **Interactive Tableau Public Dashboard:** [View Live Dashboard](https://public.tableau.com/views/EV_Market_Performance_17931262572980/evmarketperformancedashboard)
-- **Project Walkthrough Video (Google Drive):** [Watch Video Demonstration](PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE)
+- **Project Walkthrough Video (Google Drive):** [Watch Video Demonstration](https://drive.google.com/file/d/1geKN0tNA8n4qAxAC5mc09j8DwL3FWKDD/view?usp=drive_link)
 - **Project Track:** Data Analytics with Tableau
 - **Team ID:** SKILLWALLET-EV-01
 
